@@ -1,0 +1,11 @@
+socket
+os
+pybase64
+time
+csv
+datetime
+Tkinter
+pycryptodome
+art
+pwntools
+getpass
